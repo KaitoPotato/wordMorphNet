@@ -36,7 +36,3 @@ pip install numpy matplotlib
 - Experiment with different neural network architectures.
 - Expand the dataset with more verb transformations.
 - Incorporate phonetic features for a more linguistic approach.
-
----
-
-Let me know if you'd like any modifications or additional details in the README!
